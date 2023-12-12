@@ -1,5 +1,5 @@
 {
-    "name": "vich/uploader-bundle",
+    "name": "shambhu384/vichuploaderbundle",
     "type": "symfony-bundle",
     "description": "Ease file uploads attached to entities",
     "keywords": [
